@@ -1,7 +1,26 @@
 ---
-title: "alberto-guzman.github.io"
+image: headshot.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AlbertoGuzAlv
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/alberto-guzman-alvarez-99239a5a/"
+    - icon: github
+      text: GitHub
+      href: https://github.com/alberto-guzman
+    - icon: email
+      text: Email
+      href: mailto:alvarez1991[at]gmail[dot]com
 ---
 
-This is a Quarto website.
+I am a Research Data Scientist at the [American Institutes for Research (AIR)](https://www.air.org/). My research focuses on developing and applying quantitative methods to evaluate the effectiveness of education policies and interventions, with an interest on college access issues affecting first-generation and historically marginalized students. My research draws from my personal experiences as a son of Mexican immigrants and a first-generation student.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I earned my Ph.D. in Learning Sciences and Policy from the University of Pittsburgh, where I was a National Academy of Education/Spencer Dissertation Fellow. My work has been published in outlets such as the Journal of Research on Educational Effectiveness, Educational Evaluation and Policy Analysis, Inside Higher Ed, and Brookings.
+
+I hold an M.A. in Research Methodology -- Statistics from the University of Pittsburgh, and a B.S. in Psychology from the University of California, Davis.
+
+**Research interests:** Educational Data Science \| Causal Inference \| Quantitative Policy Analysis \| Equity & Social Justice \| College Access & Success \| Financial Aid \| Higher Education

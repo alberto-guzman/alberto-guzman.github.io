@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "alberto-guzman.github.io"
+  title: "Alberto Guzman-Alvarez, Ph.D."
   navbar:
     left:
       - href: index.qmd
@@ -11,9 +12,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
-    toc: true
 
 
 
