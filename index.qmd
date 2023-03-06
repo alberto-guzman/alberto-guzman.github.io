@@ -3,6 +3,8 @@ image: headshot.jpeg
 about:
   template: jolla
   links:
+    - text: CV
+      href: https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/Alberto%20Guzman-Alvarez%20CV%200323.pdf
     - icon: twitter
       text: Twitter
       href: https://twitter.com/AlbertoGuzAlv

@@ -5,15 +5,19 @@ project:
 website:
   title: "Alberto Guzman-Alvarez, Ph.D."
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: CV
+        href: https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/Alberto%20Guzman-Alvarez%20CV%200323.pdf
+      - icon: twitter
+        href: https://twitter.com/AlbertoGuzAlv
+      - icon: github
+        href: https://github.com/alberto-guzman
 
 format:
   html:
     theme: lux
     css: styles.css
+    
 
 
 
