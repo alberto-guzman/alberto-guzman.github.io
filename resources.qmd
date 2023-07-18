@@ -8,8 +8,8 @@ editor_options:
 
 I found it incredibly helpful to look at other successful NAEd/Spencer dissertation applications. To pay it forward here are all the documents that went into my application. Note that my dissertation was primarily methodological. If you want a great example of an ed policy application check out Chris Bennet's website ([link](https://chrisbennettedu.com/home-2/resources/)).
 
-Narrative
+[Narrative](https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/spencer_narrative-FINAL-NARRATIVE-100820.pdf)
 
-Personal Statement & Q's
+[Personal Statement & Q's](https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/spencer_personal_statement_and_Qs_100820.pdf)
 
-Timeline
+[Timeline](https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/spencer_dissertation_timeLine.pdf)
