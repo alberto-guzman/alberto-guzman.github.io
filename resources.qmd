@@ -1,7 +1,5 @@
 ---
 title: "Resources"
-editor_options: 
-  chunk_output_type: console
 ---
 
 **NAEd/Spencer Dissertation Fellowship Application**
