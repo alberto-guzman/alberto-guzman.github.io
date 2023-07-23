@@ -2,6 +2,10 @@
 title: "Resources"
 ---
 
+**Quarto Dissertation Template**
+
+I created a [Quarto](https://quarto.org/) extension that renders a PDF of a dissertation/thesis. It was originally designed based on the University of Pittsburgh [LaTeX template](https://etd.pitt.edu/latex-template). This template is intended to help scholars create their own reproducible dissertations/theses. [quarto-dissertation link](https://github.com/alberto-guzman/quarto-dissertation)
+
 **NAEd/Spencer Dissertation Fellowship Application**
 
 I found it incredibly helpful to look at other successful NAEd/Spencer dissertation applications. To pay it forward here are all the documents that went into my application. Note that my dissertation was primarily methodological. If you want a great example of an ed policy application check out Chris Bennet's website ([link](https://chrisbennettedu.com/home-2/resources/)).
