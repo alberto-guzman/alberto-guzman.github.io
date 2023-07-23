@@ -4,30 +4,22 @@ project:
 
 website:
   title: "Alberto Guzman-Alvarez, Ph.D."
-  site-url: https://alberto-guzman.github.io
-  repo-url: https://github.com/alberto-guzman/alberto-guzman.github.io
-  twitter-card: 
-    creator: "@AlbertoGuzAlv"
   navbar:
-    right:
-      - text: CV
-        href: https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/Alberto%20Guzman-Alvarez%20CV%200323.pdf
+    background: primary
+    left:
+      - href: https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/Alberto%20Guzman-Alvarez%20CV%200323.pdf
+        text: CV
       - icon: twitter
         href: https://twitter.com/AlbertoGuzAlv
       - icon: github
         href: https://github.com/alberto-guzman
-    left:
       - resources.qmd
 
 
 
 format:
   html:
-    theme: 
-      light: journal
-      dark: darkly
+    theme: cosmo
     css: styles.css
-    toc: true
-    highlight-style: tango
-
+    
 editor: visual
