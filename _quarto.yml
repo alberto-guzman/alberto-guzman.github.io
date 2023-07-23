@@ -12,14 +12,14 @@ website:
     right:
       - text: CV
         href: https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/Alberto%20Guzman-Alvarez%20CV%200323.pdf
-      - text: Resources
-        href: resources.qmd
       - icon: twitter
         href: https://twitter.com/AlbertoGuzAlv
       - icon: github
         href: https://github.com/alberto-guzman
-    page-footer:
-    background: dark
+    left:
+      - resources.qmd
+
+
 
 format:
   html:
