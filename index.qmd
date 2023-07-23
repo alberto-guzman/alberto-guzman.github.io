@@ -12,7 +12,7 @@ about:
       href: https://twitter.com/AlbertoGuzAlv
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/alberto-guzman-alvarez-99239a5a/"
+      href: "https://www.linkedin.com/in/alberto-guzman-alvarez-ph-d-99239a5a/"
     - icon: github
       text: GitHub
       href: https://github.com/alberto-guzman
