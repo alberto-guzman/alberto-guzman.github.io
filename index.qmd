@@ -22,7 +22,7 @@ about:
       href: https://github.com/alberto-guzman
     - icon: email
       text: Email
-      href: mailto:alvarez1991@gmail.com
+      href: mailto:aguzmanalvarez@air.org
 ---
 
 ::: {.column-page}
