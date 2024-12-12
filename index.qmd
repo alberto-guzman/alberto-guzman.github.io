@@ -11,6 +11,9 @@ about:
     - text: Scholar
       icon: google
       url: "https://scholar.google.com/citations?user=Dn8zHVIAAAAJ&hl=en"
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AlbertoGuzAlv
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/alberto-guzman-alvarez-ph-d-99239a5a/"
@@ -23,6 +26,8 @@ about:
 ---
 
 ::: {.column-page}
+
+## Bio
 
 I am a Research Data Scientist at the [American Institutes for Research (AIR)](https://www.air.org/). My research focuses on developing and applying quantitative methods to evaluate the effectiveness of education policies and interventions. I am particularly interested on college access issues affecting first-generation and historically marginalized students. My research draws from my personal experiences as a son of Mexican immigrants and a first-generation college student.
 
