@@ -9,8 +9,6 @@ website:
     left:
       - href: https://github.com/alberto-guzman/alberto-guzman.github.io/blob/master/Alberto%20Guzman-Alvarez%20CV%200323.pdf
         text: CV
-      - icon: twitter
-        href: https://twitter.com/AlbertoGuzAlv
       - icon: github
         href: https://github.com/alberto-guzman
       - resources.qmd

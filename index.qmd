@@ -11,9 +11,6 @@ about:
     - text: Scholar
       icon: google
       url: "https://scholar.google.com/citations?user=Dn8zHVIAAAAJ&hl=en"
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/AlbertoGuzAlv
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/alberto-guzman-alvarez-ph-d-99239a5a/"
